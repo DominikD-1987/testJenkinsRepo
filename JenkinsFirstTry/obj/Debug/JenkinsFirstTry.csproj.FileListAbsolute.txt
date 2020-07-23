@@ -1,0 +1,6 @@
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\bin\Debug\JenkinsFirstTry.exe.config
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\bin\Debug\JenkinsFirstTry.exe
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\bin\Debug\JenkinsFirstTry.pdb
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\obj\Debug\JenkinsFirstTry.csprojResolveAssemblyReference.cache
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\obj\Debug\JenkinsFirstTry.exe
+D:\Jenkins\JenkinsFirstTry\JenkinsFirstTry\obj\Debug\JenkinsFirstTry.pdb
